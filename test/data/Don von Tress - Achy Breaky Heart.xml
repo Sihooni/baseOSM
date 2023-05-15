@@ -1,0 +1,3610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 2.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="2.0">
+    <work>
+        <work-number></work-number>
+        <work-title></work-title>
+    </work>
+    <movement-number></movement-number>
+    <movement-title>Achy Breaky Heart</movement-title>
+    <identification>
+        <creator type="composer">Don von Tress</creator>
+        <creator type="poet"></creator>
+        <rights>All Rights Reserved</rights>
+        <encoding>
+            <software>Sibelius 7.1.3</software>
+            <software>Dolet 6.2 for Sibelius</software>
+            <encoding-date>2013-05-16</encoding-date>
+            <supports type="no" element="accidental"/>
+            <supports type="no" element="transpose"/>
+            <supports value="yes" type="yes" element="print" attribute="new-page"/>
+            <supports value="yes" type="yes" element="print" attribute="new-system"/>
+            <software>ProxyMusic 2.0 c</software>
+        </encoding>
+        <source>http://wikifonia.org/node/22343/revisions/29440/view</source>
+    </identification>
+    <defaults>
+        <scaling>
+            <millimeters>7</millimeters>
+            <tenths>40</tenths>
+        </scaling>
+        <page-layout>
+            <page-height>1697</page-height>
+            <page-width>1200</page-width>
+            <page-margins type="odd">
+                <left-margin>85.7143</left-margin>
+                <right-margin>85.7143</right-margin>
+                <top-margin>85.7143</top-margin>
+                <bottom-margin>85.7143</bottom-margin>
+            </page-margins>
+            <page-margins type="even">
+                <left-margin>85.7143</left-margin>
+                <right-margin>85.7143</right-margin>
+                <top-margin>85.7143</top-margin>
+                <bottom-margin>85.7143</bottom-margin>
+            </page-margins>
+        </page-layout>
+        <system-layout>
+            <system-margins>
+                <left-margin>22.1875</left-margin>
+                <right-margin>0</right-margin>
+            </system-margins>
+            <system-distance>92.5</system-distance>
+            <top-system-distance>72.8125</top-system-distance>
+        </system-layout>
+        <appearance>
+            <line-width type="beam">5</line-width>
+            <line-width type="heavy barline">5</line-width>
+            <line-width type="leger">1.5625</line-width>
+            <line-width type="light barline">1.5625</line-width>
+            <line-width type="slur middle">2.1875</line-width>
+            <line-width type="slur tip">0.625</line-width>
+            <line-width type="staff">0.9375</line-width>
+            <line-width type="stem">0.9375</line-width>
+            <line-width type="tie middle">2.1875</line-width>
+            <line-width type="tie tip">0.625</line-width>
+            <note-size type="grace">60</note-size>
+            <note-size type="cue">75</note-size>
+        </appearance>
+        <music-font font-family="Opus Std,music"/>
+        <word-font font-family="Plantin MT Std"/>
+    </defaults>
+    <part-list>
+        <score-part id="P1">
+            <part-name print-object="no">[Unnamed (treble staff)]</part-name>
+            <score-instrument id="P1-I1">
+                <instrument-name></instrument-name>
+            </score-instrument>
+            <midi-instrument id="P1-I1">
+                <volume>79</volume>
+                <pan>0</pan>
+            </midi-instrument>
+        </score-part>
+    </part-list>
+    <part id="P1">
+        <measure number="1">
+            <print>
+                <system-layout>
+                    <system-margins>
+                        <left-margin>22.1875</left-margin>
+                        <right-margin>0</right-margin>
+                    </system-margins>
+                    <top-system-distance>217.8125</top-system-distance>
+                </system-layout>
+                <staff-layout/>
+            </print>
+            <barline location="left">
+                <bar-style>heavy-light</bar-style>
+                <repeat direction="forward"/>
+            </barline>
+            <attributes>
+                <divisions>768</divisions>
+                <key>
+                    <fifths>3</fifths>
+                    <mode>major</mode>
+                </key>
+                <time>
+                    <beats>4</beats>
+                    <beat-type>4</beat-type>
+                </time>
+                <clef>
+                    <sign>G</sign>
+                    <line>2</line>
+                </clef>
+            </attributes>
+            <harmony relative-x="8" default-y="25" print-frame="no">
+                <root>
+                    <root-step>A</root-step>
+                </root>
+                <kind text="">major</kind>
+            </harmony>
+            <note>
+                <pitch>
+                    <step>C</step>
+                    <alter>1</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">begin</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>You</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>You</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>C</step>
+                    <alter>1</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">continue</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>can</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>can</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>C</step>
+                    <alter>1</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">continue</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>tell</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>tell</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">end</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>the</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>your</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>A</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>768</duration>
+                <voice>1</voice>
+                <type>quarter</type>
+                <stem>up</stem>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>world,</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>ma</text>
+                </lyric>
+            </note>
+            <note>
+                <rest/>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+            </note>
+            <note>
+                <pitch>
+                    <step>E</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>you</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>I</text>
+                </lyric>
+            </note>
+        </measure>
+        <measure number="2">
+            <note>
+                <pitch>
+                    <step>C</step>
+                    <alter>1</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">begin</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>begin</syllabic>
+                    <text>ne</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>moved</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>A</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">continue</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>end</syllabic>
+                    <text>ver</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>to</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>C</step>
+                    <alter>1</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">continue</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>was</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>begin</syllabic>
+                    <text>Ar</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>C</step>
+                    <alter>1</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">end</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>my</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>middle</syllabic>
+                    <text>kan</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>A</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <beam number="1">begin</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>girl.</text>
+                    <extend/>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>end</syllabic>
+                    <text>sas.</text>
+                    <extend/>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>E</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <beam number="1">end</beam>
+            </note>
+            <note>
+                <rest/>
+                <duration>768</duration>
+                <voice>1</voice>
+                <type>quarter</type>
+            </note>
+        </measure>
+        <measure number="3">
+            <note>
+                <pitch>
+                    <step>C</step>
+                    <alter>1</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">begin</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>You</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>You</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>A</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">continue</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>can</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>can</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>C</step>
+                    <alter>1</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">continue</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>burn</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>tell</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>C</step>
+                    <alter>1</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">end</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>my</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>your</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>C</step>
+                    <alter>1</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>768</duration>
+                <voice>1</voice>
+                <type>quarter</type>
+                <stem>down</stem>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>clothes</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>dog</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>A</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>192</duration>
+                <voice>1</voice>
+                <type>16th</type>
+                <stem>up</stem>
+                <beam number="1">begin</beam>
+                <beam number="2">forward hook</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>when</text>
+                </lyric>
+                <lyric relative-x="-34" default-y="-105" number="2" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>to</text>
+                    <elision> </elision>
+                    <syllabic>single</syllabic>
+                    <text>bite</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>576</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <dot/>
+                <stem>up</stem>
+                <beam number="1">end</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>I'm</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>my</text>
+                </lyric>
+            </note>
+        </measure>
+        <measure number="4">
+            <print new-system="yes"/>
+            <harmony relative-x="8" default-y="25" print-frame="no">
+                <root>
+                    <root-step>E</root-step>
+                </root>
+                <kind text="">major</kind>
+            </harmony>
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>768</duration>
+                <voice>1</voice>
+                <type>quarter</type>
+                <stem>down</stem>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>gone.</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>leg.</text>
+                </lyric>
+            </note>
+            <note>
+                <rest/>
+                <duration>768</duration>
+                <voice>1</voice>
+                <type>quarter</type>
+            </note>
+            <note>
+                <rest/>
+                <duration>768</duration>
+                <voice>1</voice>
+                <type>quarter</type>
+            </note>
+            <note>
+                <rest/>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+            </note>
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>Or</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>Or</text>
+                </lyric>
+            </note>
+        </measure>
+        <measure number="5">
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <beam number="1">begin</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>you</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>tell</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>G</step>
+                    <alter>1</alter>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <beam number="1">continue</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>can</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>your</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <beam number="1">continue</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>tell</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>begin</syllabic>
+                    <text>bro</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <beam number="1">end</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>your</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>end</syllabic>
+                    <text>ther</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>G</step>
+                    <alter>1</alter>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <beam number="1">begin</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>friends</text>
+                    <extend/>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>Cliff,</text>
+                    <extend/>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>F</step>
+                    <alter>1</alter>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <beam number="1">end</beam>
+            </note>
+            <note>
+                <rest/>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+            </note>
+            <note>
+                <pitch>
+                    <step>E</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>just</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>whose</text>
+                </lyric>
+            </note>
+        </measure>
+        <measure number="6">
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">begin</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>what</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>fist</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">continue</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>a</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>can</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">continue</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>fool</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>tear</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">end</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>I've</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>my</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>G</step>
+                    <alter>1</alter>
+                    <octave>4</octave>
+                </pitch>
+                <duration>768</duration>
+                <voice>1</voice>
+                <type>quarter</type>
+                <stem>up</stem>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>been</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>lip.</text>
+                </lyric>
+            </note>
+            <note>
+                <rest/>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+            </note>
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>and</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>He</text>
+                </lyric>
+            </note>
+        </measure>
+        <measure number="7">
+            <print new-system="yes"/>
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <beam number="1">begin</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>laugh</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>begin</syllabic>
+                    <text>ne</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>A</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <beam number="1">continue</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>and</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>end</syllabic>
+                    <text>ver</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <beam number="1">continue</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>joke</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>begin</syllabic>
+                    <text>real</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>A</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <beam number="1">end</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>begin</syllabic>
+                    <text>a</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>end</syllabic>
+                    <text>ly</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>C</step>
+                    <alter>1</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">begin</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>end</syllabic>
+                    <text>bout</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>liked</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>C</step>
+                    <alter>1</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">continue</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>me</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>me</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">continue</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>on</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>begin</syllabic>
+                    <text>a</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>A</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">end</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>the</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>middle</syllabic>
+                    <text>ny</text>
+                </lyric>
+            </note>
+        </measure>
+        <measure number="8">
+            <harmony relative-x="8" default-y="25" print-frame="no">
+                <root>
+                    <root-step>A</root-step>
+                </root>
+                <kind text="">major</kind>
+            </harmony>
+            <note>
+                <pitch>
+                    <step>A</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">begin</beam>
+                <lyric relative-x="20" default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>phone.</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>end</syllabic>
+                    <text>way.</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>C</step>
+                    <alter>1</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">end</beam>
+            </note>
+            <note>
+                <rest/>
+                <duration>768</duration>
+                <voice>1</voice>
+                <type>quarter</type>
+            </note>
+            <note>
+                <rest/>
+                <duration>1536</duration>
+                <voice>1</voice>
+                <type>half</type>
+                <lyric relative-x="51" default-y="-105" number="2" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>Or</text>
+                </lyric>
+            </note>
+        </measure>
+        <measure number="9">
+            <note>
+                <pitch>
+                    <step>C</step>
+                    <alter>1</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">begin</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>You</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>tell</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>C</step>
+                    <alter>1</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">continue</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>can</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>your</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>C</step>
+                    <alter>1</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">continue</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>tell</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>aunt</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">end</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>my</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>begin</syllabic>
+                    <text>Lou</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>A</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>768</duration>
+                <voice>1</voice>
+                <type>quarter</type>
+                <stem>up</stem>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>arms</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>end</syllabic>
+                    <text>ise.</text>
+                </lyric>
+            </note>
+            <note>
+                <rest/>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+            </note>
+            <note>
+                <pitch>
+                    <step>E</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>go</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>Tell</text>
+                </lyric>
+            </note>
+        </measure>
+        <measure number="10">
+            <print new-system="yes"/>
+            <note>
+                <pitch>
+                    <step>C</step>
+                    <alter>1</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">begin</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>back</text>
+                    <extend/>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>begin</syllabic>
+                    <text>a</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>A</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">continue</beam>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>middle</syllabic>
+                    <text>ny</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>C</step>
+                    <alter>1</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">continue</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>to</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>end</syllabic>
+                    <text>thing</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>C</step>
+                    <alter>1</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">end</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>the</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>you</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>A</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>192</duration>
+                <voice>1</voice>
+                <type>16th</type>
+                <stem>up</stem>
+                <beam number="1">begin</beam>
+                <beam number="2">begin</beam>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>please.</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>F</step>
+                    <alter>1</alter>
+                    <octave>4</octave>
+                </pitch>
+                <duration>192</duration>
+                <voice>1</voice>
+                <type>16th</type>
+                <stem>up</stem>
+                <beam number="1">continue</beam>
+                <beam number="2">end</beam>
+                <lyric relative-x="-7" default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>farm.</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>E</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <beam number="1">end</beam>
+            </note>
+            <note>
+                <rest/>
+                <duration>768</duration>
+                <voice>1</voice>
+                <type>quarter</type>
+                <lyric relative-x="1" default-y="-105" number="2" name="verse">
+                    <syllabic>begin</syllabic>
+                    <text>My</text>
+                </lyric>
+            </note>
+        </measure>
+        <measure number="11">
+            <note>
+                <pitch>
+                    <step>C</step>
+                    <alter>1</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">begin</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>You</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>end</syllabic>
+                    <text>self</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>A</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">continue</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>can</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>begin</syllabic>
+                    <text>al</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>C</step>
+                    <alter>1</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">continue</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>tell</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>middle</syllabic>
+                    <text>rea</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>C</step>
+                    <alter>1</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">end</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>my</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>end</syllabic>
+                    <text>dy</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>C</step>
+                    <alter>1</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <beam number="1">begin</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>feet</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>knows</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>E</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <beam number="1">continue</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>to</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>I'm</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>A</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <beam number="1">continue</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>hit</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>not</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>C</step>
+                    <alter>1</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <beam number="1">end</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>the</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>begin</syllabic>
+                    <text>o</text>
+                </lyric>
+            </note>
+        </measure>
+        <measure number="12">
+            <harmony relative-x="8" default-y="25" print-frame="no">
+                <root>
+                    <root-step>E</root-step>
+                </root>
+                <kind text="">major</kind>
+            </harmony>
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>768</duration>
+                <voice>1</voice>
+                <type>quarter</type>
+                <stem>down</stem>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>floor.</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>end</syllabic>
+                    <text>kay.</text>
+                </lyric>
+            </note>
+            <note>
+                <rest/>
+                <duration>768</duration>
+                <voice>1</voice>
+                <type>quarter</type>
+            </note>
+            <note>
+                <rest/>
+                <duration>768</duration>
+                <voice>1</voice>
+                <type>quarter</type>
+            </note>
+            <note>
+                <rest/>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+            </note>
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>Or</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>Or</text>
+                </lyric>
+            </note>
+        </measure>
+        <measure number="13">
+            <print new-system="yes"/>
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <beam number="1">begin</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>you</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>you</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>G</step>
+                    <alter>1</alter>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <beam number="1">continue</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>can</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>can</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <beam number="1">continue</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>tell</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>tell</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <beam number="1">end</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>my</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>my</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>G</step>
+                    <alter>1</alter>
+                    <octave>4</octave>
+                </pitch>
+                <duration>768</duration>
+                <voice>1</voice>
+                <type>quarter</type>
+                <stem>up</stem>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>lips</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>eyes</text>
+                </lyric>
+            </note>
+            <note>
+                <rest/>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+            </note>
+            <note>
+                <pitch>
+                    <step>E</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>to</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>to</text>
+                </lyric>
+            </note>
+        </measure>
+        <measure number="14">
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">begin</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>tell</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>watch</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">continue</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>my</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>out</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">continue</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>begin</syllabic>
+                    <text>fin</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>for</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">end</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>middle</syllabic>
+                    <text>ger</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>my</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>G</step>
+                    <alter>1</alter>
+                    <octave>4</octave>
+                </pitch>
+                <duration>768</duration>
+                <voice>1</voice>
+                <type>quarter</type>
+                <stem>up</stem>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>end</syllabic>
+                    <text>tips</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>mind.</text>
+                </lyric>
+            </note>
+            <note>
+                <rest/>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+            </note>
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <lyric relative-x="-10" default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>they</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>It</text>
+                </lyric>
+            </note>
+        </measure>
+        <measure number="15">
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <beam number="1">begin</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>won't</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>might</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>A</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <beam number="1">continue</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>be</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>be</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <beam number="1">continue</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>begin</syllabic>
+                    <text>rea</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>begin</syllabic>
+                    <text>wal</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>A</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <beam number="1">end</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>end</syllabic>
+                    <text>ching</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>end</syllabic>
+                    <text>king</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>C</step>
+                    <alter>1</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">begin</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>out</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>out</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>C</step>
+                    <alter>1</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">continue</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>for</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>on</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">continue</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>you</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>me</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>A</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">end</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>no</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>begin</syllabic>
+                    <text>to</text>
+                </lyric>
+            </note>
+        </measure>
+        <measure number="16">
+            <print new-system="yes"/>
+            <harmony relative-x="8" default-y="25" print-frame="no">
+                <root>
+                    <root-step>A</root-step>
+                </root>
+                <kind text="">major</kind>
+            </harmony>
+            <note>
+                <pitch>
+                    <step>A</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">begin</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>more.</text>
+                </lyric>
+                <lyric default-y="-105" number="2" name="verse">
+                    <syllabic>end</syllabic>
+                    <text>day.</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>C</step>
+                    <alter>1</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">end</beam>
+            </note>
+            <note>
+                <rest/>
+                <duration>768</duration>
+                <voice>1</voice>
+                <type>quarter</type>
+            </note>
+            <note>
+                <rest/>
+                <duration>1536</duration>
+                <voice>1</voice>
+                <type>half</type>
+                <lyric relative-x="61" default-y="-102" number="2" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>But</text>
+                </lyric>
+            </note>
+            <barline location="right">
+                <bar-style>light-light</bar-style>
+            </barline>
+        </measure>
+        <measure number="17">
+            <direction placement="above">
+                <direction-type>
+                    <segno/>
+                </direction-type>
+            </direction>
+            <note>
+                <pitch>
+                    <step>C</step>
+                    <alter>1</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>768</duration>
+                <voice>1</voice>
+                <type>quarter</type>
+                <stem>down</stem>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>Don't</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>C</step>
+                    <alter>1</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">begin</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>tell</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">end</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>my</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>A</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>768</duration>
+                <voice>1</voice>
+                <type>quarter</type>
+                <stem>up</stem>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>heart,</text>
+                </lyric>
+            </note>
+            <note>
+                <rest/>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+            </note>
+            <note>
+                <pitch>
+                    <step>E</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>my</text>
+                </lyric>
+            </note>
+        </measure>
+        <measure number="18">
+            <note>
+                <pitch>
+                    <step>C</step>
+                    <alter>1</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">begin</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>begin</syllabic>
+                    <text>ac</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>A</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">continue</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>end</syllabic>
+                    <text>hy</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>C</step>
+                    <alter>1</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">continue</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>begin</syllabic>
+                    <text>brea</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>C</step>
+                    <alter>1</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">end</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>end</syllabic>
+                    <text>ky</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>A</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <beam number="1">begin</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>heart</text>
+                    <extend/>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>E</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <beam number="1">end</beam>
+            </note>
+            <note>
+                <rest/>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+            </note>
+            <note>
+                <pitch>
+                    <step>E</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>I</text>
+                </lyric>
+            </note>
+        </measure>
+        <measure number="19">
+            <print new-system="yes"/>
+            <note>
+                <pitch>
+                    <step>C</step>
+                    <alter>1</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>768</duration>
+                <voice>1</voice>
+                <type>quarter</type>
+                <stem>down</stem>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>just</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>C</step>
+                    <alter>1</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>768</duration>
+                <voice>1</voice>
+                <type>quarter</type>
+                <stem>down</stem>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>don't</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>A</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <beam number="1">begin</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>think</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>E</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <beam number="1">continue</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>he'd</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>A</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <beam number="1">continue</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>begin</syllabic>
+                    <text>un</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <beam number="1">end</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>middle</syllabic>
+                    <text>der</text>
+                </lyric>
+            </note>
+        </measure>
+        <measure number="20">
+            <harmony relative-x="8" default-y="25" print-frame="no">
+                <root>
+                    <root-step>E</root-step>
+                </root>
+                <kind text="">major</kind>
+            </harmony>
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>768</duration>
+                <voice>1</voice>
+                <type>quarter</type>
+                <stem>down</stem>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>end</syllabic>
+                    <text>stand.</text>
+                </lyric>
+            </note>
+            <note>
+                <rest/>
+                <duration>768</duration>
+                <voice>1</voice>
+                <type>quarter</type>
+            </note>
+            <note>
+                <rest/>
+                <duration>768</duration>
+                <voice>1</voice>
+                <type>quarter</type>
+            </note>
+            <note>
+                <rest/>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+            </note>
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>And</text>
+                </lyric>
+            </note>
+        </measure>
+        <measure number="21">
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">begin</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>if</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">continue</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>you</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">continue</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>tell</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">end</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>my</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>G</step>
+                    <alter>1</alter>
+                    <octave>4</octave>
+                </pitch>
+                <duration>768</duration>
+                <voice>1</voice>
+                <type>quarter</type>
+                <stem>up</stem>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>heart,</text>
+                </lyric>
+            </note>
+            <note>
+                <rest/>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+            </note>
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>my</text>
+                </lyric>
+            </note>
+        </measure>
+        <measure number="22">
+            <print new-system="yes"/>
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <beam number="1">begin</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>begin</syllabic>
+                    <text>Ac</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>G</step>
+                    <alter>1</alter>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <beam number="1">continue</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>end</syllabic>
+                    <text>hy</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <beam number="1">continue</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>begin</syllabic>
+                    <text>Brea</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>C</step>
+                    <alter>1</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <beam number="1">end</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>end</syllabic>
+                    <text>ky</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>G</step>
+                    <alter>1</alter>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <beam number="1">begin</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>heart,</text>
+                    <extend/>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>E</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <beam number="1">end</beam>
+            </note>
+            <note>
+                <rest/>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+            </note>
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>he</text>
+                </lyric>
+            </note>
+        </measure>
+        <measure number="23">
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>768</duration>
+                <voice>1</voice>
+                <type>quarter</type>
+                <stem>down</stem>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>might</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <beam number="1">begin</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>blow</text>
+                    <extend/>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>A</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <beam number="1">end</beam>
+            </note>
+            <note>
+                <pitch>
+                    <step>C</step>
+                    <alter>1</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">begin</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>up</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>C</step>
+                    <alter>1</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">continue</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>and</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>C</step>
+                    <alter>1</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">continue</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>kill</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>A</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">end</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>this</text>
+                </lyric>
+            </note>
+            <direction placement="above">
+                <direction-type>
+                    <words>to Coda</words>
+                </direction-type>
+                <offset>-3</offset>
+            </direction>
+        </measure>
+        <measure number="24">
+            <harmony relative-x="8" default-y="25" print-frame="no">
+                <root>
+                    <root-step>A</root-step>
+                </root>
+                <kind text="">major</kind>
+            </harmony>
+            <note>
+                <pitch>
+                    <step>A</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>768</duration>
+                <voice>1</voice>
+                <type>quarter</type>
+                <stem>up</stem>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>man.</text>
+                </lyric>
+            </note>
+            <note>
+                <rest/>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+            </note>
+            <note>
+                <pitch>
+                    <step>C</step>
+                    <alter>1</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>384</duration>
+                <tie type="start"/>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <notations>
+                    <tied type="start"/>
+                </notations>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>Ooh.</text>
+                    <extend/>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>C</step>
+                    <alter>1</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>1536</duration>
+                <tie type="stop"/>
+                <tie type="start"/>
+                <voice>1</voice>
+                <type>half</type>
+                <stem>down</stem>
+                <notations>
+                    <tied type="stop"/>
+                    <tied type="start"/>
+                </notations>
+            </note>
+        </measure>
+        <measure number="25">
+            <barline location="left">
+                <ending type="start" number="1"></ending>
+            </barline>
+            <note>
+                <pitch>
+                    <step>C</step>
+                    <alter>1</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>2304</duration>
+                <tie type="stop"/>
+                <voice>1</voice>
+                <type>half</type>
+                <dot/>
+                <stem>down</stem>
+                <notations>
+                    <tied type="stop"/>
+                </notations>
+            </note>
+            <note>
+                <rest/>
+                <duration>768</duration>
+                <voice>1</voice>
+                <type>quarter</type>
+            </note>
+            <barline location="right">
+                <bar-style>light-heavy</bar-style>
+                <ending type="stop" number="1"></ending>
+                <repeat direction="backward"/>
+            </barline>
+        </measure>
+        <measure number="26">
+            <print new-page="yes"/>
+            <barline location="left">
+                <ending type="start" number="2"></ending>
+            </barline>
+            <note>
+                <rest/>
+                <duration>3072</duration>
+                <voice>1</voice>
+            </note>
+            <direction placement="above">
+                <direction-type>
+                    <words>D.S. al Coda</words>
+                </direction-type>
+                <offset>-3</offset>
+            </direction>
+            <barline location="right">
+                <bar-style>light-light</bar-style>
+                <ending type="discontinue" number="2"></ending>
+            </barline>
+        </measure>
+        <measure number="27">
+            <direction placement="above">
+                <direction-type>
+                    <coda/>
+                </direction-type>
+            </direction>
+            <harmony relative-x="8" default-y="25" print-frame="no">
+                <root>
+                    <root-step>A</root-step>
+                </root>
+                <kind text="">major</kind>
+            </harmony>
+            <note>
+                <pitch>
+                    <step>A</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>768</duration>
+                <voice>1</voice>
+                <type>quarter</type>
+                <stem>up</stem>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>man.</text>
+                </lyric>
+            </note>
+            <note>
+                <rest/>
+                <duration>768</duration>
+                <voice>1</voice>
+                <type>quarter</type>
+            </note>
+            <note>
+                <rest/>
+                <duration>1536</duration>
+                <voice>1</voice>
+                <type>half</type>
+            </note>
+        </measure>
+        <measure number="28">
+            <note>
+                <pitch>
+                    <step>C</step>
+                    <alter>1</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>768</duration>
+                <voice>1</voice>
+                <type>quarter</type>
+                <stem>down</stem>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>Don't</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>C</step>
+                    <alter>1</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">begin</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>tell</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">end</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>my</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>A</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>768</duration>
+                <voice>1</voice>
+                <type>quarter</type>
+                <stem>up</stem>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>heart,</text>
+                </lyric>
+            </note>
+            <note>
+                <rest/>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+            </note>
+            <note>
+                <pitch>
+                    <step>E</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>my</text>
+                </lyric>
+            </note>
+        </measure>
+        <measure number="29">
+            <note>
+                <pitch>
+                    <step>C</step>
+                    <alter>1</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">begin</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>begin</syllabic>
+                    <text>Ac</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>A</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">continue</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>end</syllabic>
+                    <text>hy</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>C</step>
+                    <alter>1</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">continue</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>begin</syllabic>
+                    <text>Brea</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>C</step>
+                    <alter>1</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">end</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>end</syllabic>
+                    <text>ky</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>A</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <beam number="1">begin</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>heart</text>
+                    <extend/>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>E</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <beam number="1">end</beam>
+            </note>
+            <note>
+                <rest/>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+            </note>
+            <note>
+                <pitch>
+                    <step>E</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>I</text>
+                </lyric>
+            </note>
+        </measure>
+        <measure number="30">
+            <print new-system="yes"/>
+            <note>
+                <pitch>
+                    <step>C</step>
+                    <alter>1</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>768</duration>
+                <voice>1</voice>
+                <type>quarter</type>
+                <stem>down</stem>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>just</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>C</step>
+                    <alter>1</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>768</duration>
+                <voice>1</voice>
+                <type>quarter</type>
+                <stem>down</stem>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>don't</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>A</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <beam number="1">begin</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>think</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>E</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <beam number="1">continue</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>he'd</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>A</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <beam number="1">continue</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>begin</syllabic>
+                    <text>un</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <beam number="1">end</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>end</syllabic>
+                    <text>der</text>
+                </lyric>
+            </note>
+        </measure>
+        <measure number="31">
+            <harmony relative-x="8" default-y="25" print-frame="no">
+                <root>
+                    <root-step>E</root-step>
+                </root>
+                <kind text="">major</kind>
+            </harmony>
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>768</duration>
+                <voice>1</voice>
+                <type>quarter</type>
+                <stem>down</stem>
+                <lyric relative-x="13" default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>stand.</text>
+                </lyric>
+            </note>
+            <note>
+                <rest/>
+                <duration>768</duration>
+                <voice>1</voice>
+                <type>quarter</type>
+            </note>
+            <note>
+                <rest/>
+                <duration>768</duration>
+                <voice>1</voice>
+                <type>quarter</type>
+            </note>
+            <note>
+                <rest/>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+            </note>
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>And</text>
+                </lyric>
+            </note>
+        </measure>
+        <measure number="32">
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">begin</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>if</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">continue</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>you</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">continue</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>tell</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">end</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>my</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>G</step>
+                    <alter>1</alter>
+                    <octave>4</octave>
+                </pitch>
+                <duration>768</duration>
+                <voice>1</voice>
+                <type>quarter</type>
+                <stem>up</stem>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>heart</text>
+                </lyric>
+            </note>
+            <note>
+                <rest/>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+            </note>
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>my</text>
+                </lyric>
+            </note>
+        </measure>
+        <measure number="33">
+            <print new-system="yes"/>
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <beam number="1">begin</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>begin</syllabic>
+                    <text>Ac</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>G</step>
+                    <alter>1</alter>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <beam number="1">continue</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>end</syllabic>
+                    <text>hy</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <beam number="1">continue</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>begin</syllabic>
+                    <text>Brea</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>C</step>
+                    <alter>1</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <beam number="1">end</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>end</syllabic>
+                    <text>ky</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>G</step>
+                    <alter>1</alter>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <beam number="1">begin</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>heart,</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>E</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <beam number="1">end</beam>
+            </note>
+            <note>
+                <rest/>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+            </note>
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>he</text>
+                </lyric>
+            </note>
+        </measure>
+        <measure number="34">
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>768</duration>
+                <voice>1</voice>
+                <type>quarter</type>
+                <stem>down</stem>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>might</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <beam number="1">begin</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>blow</text>
+                    <extend/>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>A</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>up</stem>
+                <beam number="1">end</beam>
+            </note>
+            <note>
+                <pitch>
+                    <step>C</step>
+                    <alter>1</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">begin</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>up</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>C</step>
+                    <alter>1</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">continue</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>and</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>B</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">continue</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>kill</text>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>A</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">end</beam>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>this</text>
+                </lyric>
+            </note>
+        </measure>
+        <measure number="35">
+            <print new-system="yes"/>
+            <harmony relative-x="8" default-y="25" print-frame="no">
+                <root>
+                    <root-step>A</root-step>
+                </root>
+                <kind text="">major</kind>
+            </harmony>
+            <note>
+                <pitch>
+                    <step>A</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>768</duration>
+                <voice>1</voice>
+                <type>quarter</type>
+                <stem>up</stem>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>man.</text>
+                </lyric>
+            </note>
+            <note>
+                <rest/>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+            </note>
+            <note>
+                <pitch>
+                    <step>C</step>
+                    <alter>1</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>384</duration>
+                <tie type="start"/>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <notations>
+                    <tied type="start"/>
+                </notations>
+                <lyric default-y="-80" number="1" name="verse">
+                    <syllabic>single</syllabic>
+                    <text>Ooh.</text>
+                    <extend/>
+                </lyric>
+            </note>
+            <note>
+                <pitch>
+                    <step>C</step>
+                    <alter>1</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>1536</duration>
+                <tie type="stop"/>
+                <tie type="start"/>
+                <voice>1</voice>
+                <type>half</type>
+                <stem>down</stem>
+                <notations>
+                    <tied type="stop"/>
+                    <tied type="start"/>
+                </notations>
+            </note>
+        </measure>
+        <measure number="36">
+            <note>
+                <pitch>
+                    <step>C</step>
+                    <alter>1</alter>
+                    <octave>5</octave>
+                </pitch>
+                <duration>2304</duration>
+                <tie type="stop"/>
+                <voice>1</voice>
+                <type>half</type>
+                <dot/>
+                <stem>down</stem>
+                <notations>
+                    <tied type="stop"/>
+                </notations>
+            </note>
+            <note>
+                <pitch>
+                    <step>A</step>
+                    <octave>4</octave>
+                </pitch>
+                <duration>384</duration>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">begin</beam>
+            </note>
+            <note>
+                <pitch>
+                    <step>E</step>
+                    <octave>5</octave>
+                </pitch>
+                <duration>384</duration>
+                <tie type="start"/>
+                <voice>1</voice>
+                <type>eighth</type>
+                <stem>down</stem>
+                <beam number="1">end</beam>
+                <notations>
+                    <tied type="start"/>
+                </notations>
+            </note>
+        </measure>
+        <measure number="37">
+            <note>
+                <pitch>
+                    <step>E</step>
+                    <octave>5</octave>
+                </pitch>
+                <duration>768</duration>
+                <tie type="stop"/>
+                <voice>1</voice>
+                <type>quarter</type>
+                <stem>down</stem>
+                <notations>
+                    <tied type="stop"/>
+                </notations>
+            </note>
+            <note>
+                <rest/>
+                <duration>768</duration>
+                <voice>1</voice>
+                <type>quarter</type>
+            </note>
+            <note>
+                <rest/>
+                <duration>1536</duration>
+                <voice>1</voice>
+                <type>half</type>
+            </note>
+        </measure>
+        <measure number="38">
+            <note>
+                <rest/>
+                <duration>3072</duration>
+                <voice>1</voice>
+            </note>
+        </measure>
+        <measure number="39">
+            <note>
+                <rest/>
+                <duration>3072</duration>
+                <voice>1</voice>
+            </note>
+            <barline location="right">
+                <bar-style>light-heavy</bar-style>
+            </barline>
+        </measure>
+    </part>
+</score-partwise>
