@@ -35,6 +35,7 @@ describe("XML interface", () => {
         "Saltarello.xml",
         "ScottJoplin_EliteSyncopations.xml",
         "ScottJoplin_The_Entertainer.xml",
+        "daystest.xml",
         "TelemannWV40.102_Sonate-Nr.1.1-Dolce.xml",
         "TelemannWV40.102_Sonate-Nr.1.2-Allegro-F-Dur.xml",
         "VariousChordTests.musicxml",

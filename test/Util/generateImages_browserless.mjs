@@ -144,7 +144,7 @@ async function init () {
     // const canvas = document.createElement('canvas')
     // div.canvas = document.createElement('canvas')
 
-    const zoom = 1.0;
+    const zoom = 2.0;
     // width of the div / PNG generated
     let width = pageWidth * zoom;
     // TODO sometimes the width is way too small for the score, may need to adjust zoom.

@@ -11,6 +11,7 @@ import { TransposeCalculator } from '../src/Plugins/Transpose/TransposeCalculato
     var sampleFolder = "",
         samples = {
             "Beethoven, L.v. - An die ferne Geliebte": "Beethoven_AnDieFerneGeliebte.xml",
+            "Sihoon - daystest": "daystest.xml",
             "Clementi, M. - Sonatina Op.36 No.1 Pt.1": "MuzioClementi_SonatinaOpus36No1_Part1.xml",
             "Clementi, M. - Sonatina Op.36 No.1 Pt.2": "MuzioClementi_SonatinaOpus36No1_Part2.xml",
             "Clementi, M. - Sonatina Op.36 No.3 Pt.1": "MuzioClementi_SonatinaOpus36No3_Part1.xml",
@@ -72,7 +73,7 @@ import { TransposeCalculator } from '../src/Plugins/Transpose/TransposeCalculato
             "Telemann, G.P. - Sonate-Nr.1.2-Allegro": "TelemannWV40.102_Sonate-Nr.1.2-Allegro-F-Dur.xml",
         },
 
-        zoom = 1.0,
+        zoom = 2.0,
         // HTML Elements in the page
         divControls,
         zoomControls,
@@ -393,7 +394,7 @@ import { TransposeCalculator } from '../src/Plugins/Transpose/TransposeCalculato
         for (const zoomIn of zoomIns) {
             if (zoomIn) {
                 zoomIn.onclick = function () {
-                    zoom *= 1.2;
+                    zoom *= 1.1;
                     scale();
                 };
             }
@@ -401,7 +402,7 @@ import { TransposeCalculator } from '../src/Plugins/Transpose/TransposeCalculato
         for (const zoomOut of zoomOuts) {
             if (zoomOut) {
                 zoomOut.onclick = function () {
-                    zoom /= 1.2;
+                    zoom /= 1.1;
                     scale();
                 };
             }
@@ -630,7 +631,7 @@ import { TransposeCalculator } from '../src/Plugins/Transpose/TransposeCalculato
                 }
             }
         }
-        // zoom = 1.0;
+        // zoom = 2.0;
 
         setSampleSpecificOptions(str, isCustom);
 

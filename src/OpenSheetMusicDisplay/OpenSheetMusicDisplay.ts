@@ -706,7 +706,7 @@ export class OpenSheetMusicDisplay {
         }
         this.sheet = undefined;
         this.graphic = undefined;
-        this.zoom = 1.0;
+        this.zoom = 2.0;
     }
 
     /**

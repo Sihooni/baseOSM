@@ -82,7 +82,7 @@ export class CanvasVexFlowBackend extends VexFlowBackend {
             this.ctx.save();
             // note that this will hide the cursor
             this.ctx.setFillStyle(this.rules.PageBackgroundColor);
-            this.zoom = 1; // remove
+            this.zoom = 2; // remove
             this.ctx.fillRect(0, 0, (this.canvas as any).width / this.zoom, (this.canvas as any).height / this.zoom);
             this.ctx.restore();
         }

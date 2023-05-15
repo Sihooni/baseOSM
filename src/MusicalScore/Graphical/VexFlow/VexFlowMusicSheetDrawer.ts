@@ -35,7 +35,7 @@ import { VexFlowGlissando } from "./VexFlowGlissando";
 
 /**
  * This is a global constant which denotes the height in pixels of the space between two lines of the stave
- * (when zoom = 1.0)
+ * (when zoom = 2.0)
  * @type number
  */
 export const unitInPixels: number = 10;
